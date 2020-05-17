@@ -8,3 +8,8 @@ This driver is for the AnaTech Robotics arm,
 Design by Dejan from howtomechatronics.com
 
 and is based on Adafruit PCA9685 PWM Servo Driver Library.
+
+*******************************************************************************************************************************************
+
+AnaTech Robotic Arm is an Open Sourced robotic arm based on combination of 3D printed robotic arm by Dejan (howtomechatronics.com
+) and PCA9685 16-Channel Servo Driver.
