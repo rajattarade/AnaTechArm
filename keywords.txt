@@ -1,0 +1,22 @@
+#######################################
+# Classes, datatypes (KEYWORD1)
+#######################################
+
+AnaTechArm	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+base	KEYWORD2
+shoulder	KEYWORD2
+gripper	KEYWORD2
+elbow	KEYWORD2
+pitch	KEYWORD2
+roll	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+FREQUENCY_OSCILLATOR  LITERAL1
